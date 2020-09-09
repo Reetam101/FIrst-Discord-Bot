@@ -6,6 +6,6 @@ A very simple discord bot built with discord.js and node.js. This is my first ti
 npm install
 
 ### Bot commands
-- >>kick [id]
-- >>ban [id]
-- manage user roles.
+[>>]kick [id]
+[>>]ban [id]
+manage user roles.
